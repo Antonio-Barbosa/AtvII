@@ -1,0 +1,16 @@
+body{
+    background: rgb(218, 216, 216);
+}
+.containerCad{
+    margin: 0 auto;
+    width: 50%;
+    margin-top: 6rem;
+    text-align: center;
+
+}
+h2{
+    font-size: 25px;
+    font-weight: 500;
+    pointer-events: all;
+    position: relative;
+}

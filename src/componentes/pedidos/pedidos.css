@@ -1,0 +1,32 @@
+.containerPed{
+    margin: 0 auto;
+    width: 65%;
+    margin-top: 6rem;
+    text-align: center;
+}
+
+.formCli{
+    margin-top: 6rem !important;
+    width:50%;
+    margin:0 auto;
+}
+.opcoes{
+    margin-top: 3rem !important;
+    width:100%;
+    margin:0 auto;
+}
+.title{
+    text-align: center;
+}
+.botaoCancela{
+    margin-top: 3rem;
+}
+
+.pedFont{
+    text-align: center;
+    margin-top: 4rem !important;
+}
+
+.espacamento-tabela{
+    margin-top: 4rem !important;
+}
